@@ -1,2 +1,2 @@
-# Manual-Acessibilidade-para-Todos
-Manual para utilizar o aplicativo "Be My Eyes". O Manual está no formato HTML.
+# Manual - Be My Eyes
+Manual para utilizar o aplicativo para dispositivos móveis "Be My Eyes". O Manual está no formato HTML.
